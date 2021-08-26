@@ -1,0 +1,1 @@
+pal = ["uno","dos","tres","Cuatro"]
